@@ -5,7 +5,8 @@ h1{
 }
 
 body{
-  background-image: url(https://img00.deviantart.net/0f3d/i/2018/080/f/0/bg4_by_neokke-dc6kuw2.jpg);
- image-repeat: no-repeat center center fixed;
+ //background-image: url(https://img00.deviantart.net/0f3d/i/2018/080/f/0/bg4_by_neokke-dc6kuw2.jpg);
+ background-repeat: no-repeat center center fixed;
+ text-align: center;
  color: grey;
 }

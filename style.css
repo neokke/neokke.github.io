@@ -1,7 +1,8 @@
 h1{
-  color: lavender;
+  color: white;
 }
 
 body{
-  color: pink;
+  background-image: url(https://orig00.deviantart.net/f5f7/f/2018/080/6/b/bg_by_neokke-dc6kqm6.jpg);
+ image-repeat: no-repeat center center fixed;
 }
